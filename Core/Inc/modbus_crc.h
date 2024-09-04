@@ -1,9 +1,4 @@
-/*
- * modbus_crc.h
- *
- *  Created on: Sep 16, 2022
- *      Author: arunr
- */
+
 
 #ifndef INC_MODBUS_CRC_H_
 #define INC_MODBUS_CRC_H_
