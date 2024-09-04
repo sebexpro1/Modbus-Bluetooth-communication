@@ -1,0 +1,13 @@
+../Core/Src/modbus_crc.cpp:80:10:uint16_t crc16(uint8_t*, uint16_t)	24	static
+../Core/Src/modbus_crc.cpp:96:6:void modbus_on_compare_array()	4	static
+../Core/Src/modbus_crc.cpp:110:6:void modbus_on_compare_array_AT()	4	static
+../Core/Src/modbus_crc.cpp:122:6:void modbus_off_compare_array_AT()	4	static
+../Core/Src/modbus_crc.cpp:137:6:void modbus_off_compare_array()	4	static
+../Core/Src/modbus_crc.cpp:155:5:int compareArrays(uint8_t*, uint8_t*, int, int)	32	static
+../Core/Src/modbus_crc.cpp:164:5:int clearArray(uint8_t*, int)	24	static
+../Core/Src/modbus_crc.cpp:171:6:void BTM222_init_reset()	8	static
+../Core/Src/modbus_crc.cpp:182:6:void ATMode_on()	24	static
+../Core/Src/modbus_crc.cpp:199:6:void ATMode_Pcom()	24	static
+../Core/Src/modbus_crc.cpp:216:9:uint8_t readHoldingRegs()	32	static
+../Core/Src/modbus_crc.cpp:258:9:uint8_t writeSingleReg()	16	static
+../Core/Src/modbus_crc.cpp:286:6:void sendData(uint8_t*, int)	16	static

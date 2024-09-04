@@ -1,0 +1,13 @@
+../Core/Src/modbus_crc.cpp:80:10:uint16_t crc16(uint8_t*, uint16_t)	2
+../Core/Src/modbus_crc.cpp:96:6:void modbus_on_compare_array()	1
+../Core/Src/modbus_crc.cpp:110:6:void modbus_on_compare_array_AT()	1
+../Core/Src/modbus_crc.cpp:122:6:void modbus_off_compare_array_AT()	1
+../Core/Src/modbus_crc.cpp:137:6:void modbus_off_compare_array()	1
+../Core/Src/modbus_crc.cpp:155:5:int compareArrays(uint8_t*, uint8_t*, int, int)	3
+../Core/Src/modbus_crc.cpp:164:5:int clearArray(uint8_t*, int)	2
+../Core/Src/modbus_crc.cpp:171:6:void BTM222_init_reset()	1
+../Core/Src/modbus_crc.cpp:182:6:void ATMode_on()	1
+../Core/Src/modbus_crc.cpp:199:6:void ATMode_Pcom()	1
+../Core/Src/modbus_crc.cpp:216:9:uint8_t readHoldingRegs()	2
+../Core/Src/modbus_crc.cpp:258:9:uint8_t writeSingleReg()	5
+../Core/Src/modbus_crc.cpp:286:6:void sendData(uint8_t*, int)	1

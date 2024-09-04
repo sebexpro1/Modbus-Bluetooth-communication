@@ -1,0 +1,11 @@
+../Core/Src/main.cpp:101:6:void HAL_UARTEx_RxEventCallback(UART_HandleTypeDef*, uint16_t)	1
+../Core/Src/main.cpp:135:5:int main()	1
+../Core/Src/main.cpp:240:6:void SystemClock_Config()	4
+../Core/Src/main.cpp:291:13:void MX_UART4_Init()	5
+../Core/Src/main.cpp:339:13:void MX_GPIO_Init()	1
+../Core/Src/main.cpp:396:6:void StartmainTask(void*)	9
+../Core/Src/main.cpp:477:6:void StartSendTask(void*)	4
+../Core/Src/main.cpp:515:6:void StartReceiveTask(void*)	5
+../Core/Src/main.cpp:554:6:void MPU_Config()	1
+../Core/Src/main.cpp:589:6:void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef*)	2
+../Core/Src/main.cpp:606:6:void Error_Handler()	1
